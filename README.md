@@ -3,6 +3,50 @@
 
 This is a Next.js web application with TypeScript and Tailwind CSS for temporal video grounding.
 
+## UI Showcase
+
+### Landing Pages
+#### Home Page
+![Landing Page](./assets/landing.png)
+*Main landing page with hero section and project overview*
+
+#### Features Overview
+![Features](./assets/features.png)
+*Key features and capabilities of the temporal video grounding system*
+
+### About Section
+The About page provides comprehensive information about the project across multiple sections:
+
+#### Project Overview
+![About - Overview](./assets/about1.png)
+*Project motivation and high-level overview*
+
+#### Technical Details
+![About - Technical](./assets/about2.png)
+*Technical implementation and system architecture*
+
+#### Applications
+![About - Applications](./assets/about3.png)
+*Use cases and practical applications*
+
+### User Access
+#### Login Interface
+![Login Page](./assets/logn.png)
+*Secure login interface with modern design*
+
+#### Registration
+![Register Page](./assets/register.png)
+*New user registration with form validation*
+
+### Core Application
+#### Dashboard
+![Dashboard Interface](./assets/Dashboard.png)
+*User dashboard with video analysis tools and recent activities*
+
+#### Settings
+![Settings Page](./assets/settings.png)
+*Application settings and user preferences*
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
