@@ -1,4 +1,5 @@
 # Temporal Video Grounding Web Application
+# Created by Abdul Jawwad <rayyan20161@gmail.com> and Akil Krishna <krsna.akil@gmail.com>
 
 This is a Next.js web application with TypeScript and Tailwind CSS for temporal video grounding.
 
